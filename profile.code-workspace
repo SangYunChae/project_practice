@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../profile"
+		},
+		{
+			"path": "../company"
+		},
+		{
+			"path": "../oss 실습"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../widerange"
+		},
+		{
+			"path": "../../Documents/GitHub/KW2023_OSS/fastapi_hello"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oss과제"
+	}
+}
